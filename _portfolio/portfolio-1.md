@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Networks 2 Matrices"
+excerpt: "Our metric on the network space. <br/><img src='/images/graph1.png'>"
 collection: portfolio
 ---
 
