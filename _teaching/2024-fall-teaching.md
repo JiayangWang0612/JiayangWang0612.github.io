@@ -1,12 +1,12 @@
 ---
-title: "STAT 324 — Spring 2024"
+title: "STAT 324 — Fall 2024"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2024-spring-teaching/
+permalink: /teaching/2024-fall-teaching/
 venue: "University of Wisconsin–Madison, Department of Statistics"
 # The date is a sorting key; semester is the date shown to visitors.
-date: 2024-01-01
-semester: "Spring 2024"
+date: 2024-09-01
+semester: "Fall 2024"
 location: "Madison, WI"
 excerpt: ""
 ---
