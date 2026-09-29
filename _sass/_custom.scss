@@ -1,0 +1,13 @@
+/* Small content refinements; retain the Academic Pages layout and theme. */
+.publication-entry {
+  margin: 1.5em 0 2em;
+
+  h3 { margin-bottom: 0.65em; }
+  p { margin-bottom: 0.85em; }
+}
+
+.publication-links { font-size: 0.95em; }
+.home-illustration { display: block; max-width: 180px; height: auto; margin-top: 2em; }
+.research-figure { margin: 1.5em 0; }
+.research-figure img { display: block; width: 100%; height: auto; }
+.research-figure figcaption { margin-top: 0.7em; }

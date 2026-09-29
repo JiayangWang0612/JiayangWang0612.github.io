@@ -1,0 +1,10 @@
+<article class="publication-entry">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+  <p>{{ post.authors | escape }}<br>
+    <em>{{ post.venue | escape }}</em>, {{ post.date | date: "%Y" }}{% if post.arxiv %} · arXiv:{{ post.arxiv | escape }}{% endif %}
+  </p>
+  <div class="publication-summary">{{ post.excerpt | markdownify }}</div>
+  <p class="publication-links">
+    <a href="{{ post.url | relative_url }}">Details</a>{% if post.arxivurl %} · <a href="{{ post.arxivurl }}">arXiv</a>{% endif %}{% if post.paperurl %} · <a href="{{ post.paperurl }}">PDF</a>{% endif %}
+  </p>
+</article>
